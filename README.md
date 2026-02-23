@@ -17,4 +17,4 @@ My primary work centers on the **Kerr-Salpeter Cosmological Model**, proposing t
 ### 🔗 Academic Links
 * **ORCID:** https://orcid.org/0009-0005-2578-0132
 
-📫 **Contact:** [Insert your professional email address]
+📫 **Contact:** f.gomes.phys@proton.me
