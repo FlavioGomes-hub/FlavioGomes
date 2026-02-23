@@ -10,7 +10,7 @@ My primary work centers on the **Kerr-Salpeter Cosmological Model**, proposing t
 * **Pulsar Timing Arrays:** Spectral analysis of NANOGrav data for background spacetime frame-dragging signatures.
 
 ### 💻 Tools & Stack
-* **Languages:** Python, C++ *(ajuste selon ce que tu utilises)*
+* **Languages:** Python
 * **Scientific Computing:** NumPy, SciPy, Pandas, Matplotlib
 * **Formatting & Publishing:** LaTeX
 
