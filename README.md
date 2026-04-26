@@ -4,7 +4,7 @@
 Welcome to my academic GitHub repository. I use computational methods and numerical simulations to explore advanced concepts in General Relativity and observational cosmology.
 
 ### 🔭 Current Research Focus
-My primary work centers on the **Kerr-Salpeter Cosmological Model**, proposing that the Observable Universe resides within the interior of a hyper-massive Kerr Black Hole. My computational repositories focus on:
+My primary work centers on the **Kerr-Cartan Cosmological Model**, proposing that the Observable Universe resides within the interior of a hyper-massive Kerr Black Hole. My computational repositories focus on:
 * **Dynamical Dark Energy:** Simulating centrifugal pressure and Raychaudhuri kinematics.
 * **Cosmological Tensions:** Geometric resolution of the $H_0$ tension and mechanical suppression of the $S_8$ clustering anomaly.
 * **Pulsar Timing Arrays:** Spectral analysis of NANOGrav data for background spacetime frame-dragging signatures.
